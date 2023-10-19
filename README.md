@@ -1,2 +1,2 @@
-# World_Electricity_Analysis
- 
+# World Electricity Analysis Through SQL, Python And Excel
+ This depository contains the analysis of World Electricity Accsessibility and the different sources of electricity prodution for different countries. The Project's objectives were to investigate accessibility patterns for various nations,Additionally, it compared the production of various power generation sources in different regions. Moreover, it aimed to reveal some of the datasets' hidden insights. The data cleaning part was done in python, the aggregation of data and formation of tables in SQL and the analysis of data along with the visualisation in excel.
